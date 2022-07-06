@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @xyzzyy
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java and Python
-- 📫 You can reach me at `@`
+Hi, I’m Andrew! (or xyzzy)
+
+I am a software engineer interested in many different areas of programming.
+Some of my favorite areas are in networking and cloud computing.
+You can reach me by email at andrew@projectsby.xyz,
+or check out my website: https://projectsby.xyz/zy/.
 
 <!---
 xyzzyy/xyzzyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
