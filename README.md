@@ -1,9 +1,10 @@
-Hi, I’m Andrew! (or xyzzy)
+Hi, I’m Andrew!
 
-I am a software engineer interested in many different areas of programming.
+I am a software engineer interested in many different areas of computer science.
 Some of my favorite areas are in networking and cloud computing.
-You can reach me by email at andrew@projectsby.xyz,
-or check out my website: https://projectsby.xyz/zy/.
+My favorite languages are Java, Python, and JavaScript.
+I enjoy solving coding problems as they are a great way to refind my skills.
+
 
 <!---
 xyzzyy/xyzzyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
